@@ -1,0 +1,5 @@
+{
+    "require": {
+        "howie6879/php-google": "^1.0"
+    }
+}
